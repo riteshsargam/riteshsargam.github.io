@@ -65,5 +65,3 @@ const saveUserform = (event)=>{
 
 userForm.addEventListener("submit",saveUserform);
 diplay();
-Footer
-© 2022 GitHub, Inc.
